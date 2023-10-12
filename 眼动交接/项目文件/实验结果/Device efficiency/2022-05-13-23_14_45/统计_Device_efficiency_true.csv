@@ -1,0 +1,4 @@
+unix_timestamp,path,fixation_count,duration,fixation_rate,first_fixation_on_aoi,scan_path_accuracy,edit_distance,attention_switch,convex_hull
+1652454736951,/expr/MyLearning/Booking/SelectSeatDeviceEfficiency,13,11628,0.9285714285714286,120,0.6666666666666666,12,5,552.4913660153262
+1652454785277,/expr/MyLearning/Booking/SelectSeatDeviceEfficiency,19,7029,1.0,937,1.0,17,1,357.98032243126585
+1652454828004,/expr/MyLearning/Booking/SelectSeatDeviceEfficiency,13,7802,1.0,2055,1.0,12,0,236.8077655028266

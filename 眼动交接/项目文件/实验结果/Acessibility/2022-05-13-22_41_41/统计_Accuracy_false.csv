@@ -1,0 +1,11 @@
+unix_timestamp,path,fixation_count,duration,fixation_rate,first_fixation_on_aoi,scan_path_accuracy,edit_distance,attention_switch,convex_hull
+1652451756973,/expr/MyLearning/Booking/SelectSpace,3,967,1.5,121,1.0,0,1,177.74930099286595
+1652451799325,/expr/MyLearning/Booking/SelectSpace,1,333,1.0,333,1.0,1,0,0.0
+1652451821669,/expr/MyLearning/Booking/SelectSpace,3,544,1.0,151,1.0,2,0,193.10047466747048
+1652452095418,/expr/MyLearning/Booking/SelectSpace,1,694,1.0,694,1.0,1,0,0.0
+1652452198856,/expr/MyLearning/Booking/SelectSpace,1,272,1.0,272,1.0,1,0,0.0
+1652452727979,/expr/MyLearning/Booking/SelectSpace,2,393,1.0,61,1.0,0,1,99.07606025152532
+1652452786959,/expr/MyLearning/Booking/SelectSpace,1,30,1.0,30,1.0,1,0,0.0
+1652452817431,/expr/MyLearning/Booking/SelectSpace,3,394,1.0,31,1.0,2,0,133.6169946934283
+1652452846060,/expr/MyLearning/Booking/SelectSpace,3,392,1.0,60,1.0,2,0,62.17437809685031
+1652452883823,/expr/MyLearning/Booking/SelectSpace,3,514,1.0,151,1.0,2,0,164.83837167246594
