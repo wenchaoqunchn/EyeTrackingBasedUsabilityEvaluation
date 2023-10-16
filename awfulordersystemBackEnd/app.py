@@ -89,8 +89,8 @@ def start_record():
         mkdir("data/" + str(timestamp))
         mkdir("data/" + str(timestamp) + "/pic")
         p = subprocess.Popen(
-            "E:/Documents/awfulordersystemBackEnd/eyetrack/cs_sample_streams.exe data/" + str(timestamp) + "/eye-track",
-            stderr=subprocess.STDOUT, stdout=subprocess.PIPE, shell=True, close_fds=True, start_new_session=True)
+            "C:/Users/WenChaoqun/Desktop/EyeTrackingBasedUsabilityEvaluation/awfulordersystemBackEnd/eyetrack/cs_sample_streams.exe data/" + str(timestamp) + "/eye-track",
+            shell=True, close_fds=True, start_new_session=True)
         # with open("data/" + str(timestamp) + "/BadDesigns.txt", "w") as f:
         #     f.write("Accessibility: " + str(response['Accessibility']) + "\n")
         #     f.write("Ease_of_use: " + str(response['Ease_of_use']) + "\n")
