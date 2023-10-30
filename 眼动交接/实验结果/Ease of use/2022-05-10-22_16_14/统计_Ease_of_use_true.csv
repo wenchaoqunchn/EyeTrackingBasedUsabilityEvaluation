@@ -1,5 +1,0 @@
-unix_timestamp,path,fixation_count,duration,fixation_rate,first_fixation_on_aoi,scan_path_accuracy,edit_distance,attention_switch,convex_hull
-1652189745223,/expr/MyLearning/Booking/SelectDateEaseOfUse,10,30362,0.8333333333333334,61,0.8,8,8,388.8981550141206
-1652189886827,/expr/MyLearning/Booking/SelectDateEaseOfUse,11,35246,0.8461538461538461,121,0.8,9,7,384.5723049697618
-1652189959036,/expr/MyLearning/Booking/SelectDateEaseOfUse,6,25194,0.6666666666666666,3444,0.8,5,6,384.5383447416212
-1652190046096,/expr/MyLearning/Booking/SelectDateEaseOfUse,11,23473,0.6875,3595,0.8,12,11,377.2185378928111

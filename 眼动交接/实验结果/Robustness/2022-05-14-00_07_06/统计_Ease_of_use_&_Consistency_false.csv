@@ -1,5 +1,0 @@
-unix_timestamp,path,fixation_count,duration,fixation_rate,first_fixation_on_aoi,scan_path_accuracy,edit_distance,attention_switch,convex_hull
-1652457917657,/expr/MyLearning/Booking/SelectDate,2,364,0.6666666666666666,303,0.5,3,2,224.6068261050019
-1652457942646,/expr/MyLearning/Booking/SelectDate,1,30,1.0,30,1.0,3,0,0.0
-1652457963520,/expr/MyLearning/Booking/SelectDate,2,277,1.0,186,1.0,3,0,196.885597054907
-1652457988285,/expr/MyLearning/Booking/SelectDate,2,272,1.0,242,1.0,3,0,194.5070907590056

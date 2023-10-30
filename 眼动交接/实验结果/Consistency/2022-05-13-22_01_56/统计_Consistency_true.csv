@@ -1,6 +1,0 @@
-unix_timestamp,path,fixation_count,duration,fixation_rate,first_fixation_on_aoi,scan_path_accuracy,edit_distance,attention_switch,convex_hull
-1652450390724,/expr/MyLearning/Booking/SelectDateConsistency,8,6280,0.7272727272727273,3021,0.8,6,6,737.9602008434255
-1652450409587,/expr/MyLearning/Booking/SelectDateConsistency,4,3387,0.5714285714285714,2749,0.8,2,4,791.6776545550829
-1652450433535,/expr/MyLearning/Booking/SelectDateConsistency,8,7703,0.8888888888888888,3684,0.8,4,6,798.8078456506746
-1652450463415,/expr/MyLearning/Booking/SelectDateConsistency,5,5960,0.5555555555555556,4772,0.8,4,7,781.9274524248884
-1652450508588,/expr/MyLearning/Booking/SelectDateConsistency,5,6014,0.625,4080,0.8,3,6,747.613173147051

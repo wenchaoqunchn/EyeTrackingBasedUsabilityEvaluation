@@ -1,4 +1,0 @@
-unix_timestamp,path,fixation_count,duration,fixation_rate,first_fixation_on_aoi,scan_path_accuracy,edit_distance,attention_switch,convex_hull
-1652457955410,/expr/MyLearning/Booking/SelectSeatRobustness,6,11054,1.2,875,1.0,3,1,233.80228950905132
-1652457976583,/expr/MyLearning/Booking/SelectSeatRobustness,4,7371,1.0,514,1.0,3,0,81.61404369035306
-1652458021772,/expr/MyLearning/Booking/SelectSeatRobustness,5,8763,1.0,1783,1.0,4,0,66.76134439482477

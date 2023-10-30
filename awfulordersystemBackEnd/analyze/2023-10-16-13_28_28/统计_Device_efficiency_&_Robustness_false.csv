@@ -1,2 +1,0 @@
-unix_timestamp,path,fixation_count,duration,fixation_rate,first_fixation_on_aoi,scan_path_accuracy,edit_distance,attention_switch,convex_hull
-1652456604207,/expr/MyLearning/Booking/SelectSeat,1,815,0.5,815,0.5,1,1,44.71057626073106

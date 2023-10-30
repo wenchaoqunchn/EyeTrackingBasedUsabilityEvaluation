@@ -1,4 +1,0 @@
-unix_timestamp,path,fixation_count,duration,fixation_rate,first_fixation_on_aoi,scan_path_accuracy,edit_distance,attention_switch,convex_hull
-1652457940094,/expr/MyHome/News,1,121,0.5,121,0.5,1,1,88.4301679077346
-1652457960907,/expr/MyHome/News,1,182,1.0,182,1.0,0,0,0.0
-1652457985651,/expr/MyHome/News,1,91,1.0,91,1.0,0,0,0.0
